@@ -1,6 +1,4 @@
-
 import streamlit as st
-
 st.sidebar.subheader('Objetivo:')
 st.sidebar.write('El objetivo de esta aplicación es facilitar a estudiantes de química el calcular concentraciones molares de soluciones.')
 st.sidebar.subheader("Nombres de creadores:")
@@ -44,7 +42,7 @@ with tab1:
     st.write('Pmeq = peso miliequivalente del compuesto')
     st.write('v = volumen de la solución (ml)')
 
- with tab2:
+with tab2:
   st.subheader("Molaridad")
 
   compuesto = st.selectbox ('Escribe la formula quimica del compuesto',('NaOH','HCl','CH3COOH','H3PO4','HNO3','CaCl2','LiCl2','Mg3(PO4)2','Al(OH)3','Ca(OH)2','KCl','KOH','Na2SO4','Na2CO3','NaCl','kMnO4','HCOOH','NH3','H2SO4','C2H2O4','LiOH','Mg(OH)2','C6H8O7','C3H6O3','CH3COONa','KHP','CaCO3','MgSO4'))
@@ -118,7 +116,7 @@ with tab1:
   if st.button("Calcular"):
     st.success(str(result)+' M')
 
- with tab3:
+with tab3:
   st. subheader("Normalidad")
 
  
