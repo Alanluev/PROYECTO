@@ -1,12 +1,18 @@
 import streamlit as st
 st.sidebar.subheader('Objetivo:')
 st.sidebar.write('El objetivo de esta aplicación es facilitar a estudiantes de química el calcular concentraciones molares de soluciones.')
-st.sidebar.subheader("Nombres de creadores:")
-st.sidebar.markdown("-_Alan Pérez Luévano_")
-st.sidebar.markdown("-_Luisana Aguilar Ornelas_")
-st.sidebar.markdown('-_Janeth Tamara Reza Aguiñaga_')
-st.sidebar.markdown('-_Kevin Jair Madrid_')
 
+
+
+#---nombres-----
+
+st.sidebar.subheader("Nombres de creadores:")
+st.sidebar.write('''
+- Alan Pérez Luévano
+- Luisana Aguilar Ornelas
+- Janeth Tamara Reza
+- Kevin Jair Madrid
+''')
 
 col1,col2=st.columns(2)
 
