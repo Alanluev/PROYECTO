@@ -6,7 +6,7 @@ st.sidebar.write('El objetivo de esta aplicación es facilitar a estudiantes de 
 
 #---nombres-----
 
-st.sidebar.subheader("Nombres de creadores:")
+st.sidebar.subheader("Creado por:")
 st.sidebar.write('''
 - Alan Pérez Luévano
 - Luisana Aguilar Ornelas
