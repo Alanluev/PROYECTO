@@ -135,13 +135,13 @@ with tab3:
     eq=1
   if comp=="HCl":
     PM=36.4609
-    eq=3
+    eq=1
   if comp=="CH3COOH":
     PM=60.0520
     eq=1
   if comp=="H3PO4":
     PM=97.99252
-    eq=2
+    eq=3
   if comp=="HNO3":
     PM=63.0123
     eq=1
