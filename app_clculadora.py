@@ -11,7 +11,7 @@ st.sidebar.write('''
 - Alan Pérez Luévano
 - Luisana Aguilar Ornelas
 - Janeth Tamara Reza
-- Kevin Jair Madrid
+- Kevin Jahir Madrid
 ''')
 
 col1,col2=st.columns(2)
