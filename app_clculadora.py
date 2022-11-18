@@ -156,22 +156,22 @@ with tab3:
     eq=2
   if comp=="Al(OH)3":
     PM=78.0036
-    eq=1
+    eq=3
   if comp=="Ca(OH)3":
     PM=74.0927
-    eq=1
+    eq=3
   if comp=="KCl":
     PM=74.5513
-    eq=6
+    eq=1
   if comp=="KOH":
     PM=56.1056
-    eq=2
+    eq=1
   if comp=="Mg3(PO4)2":
     PM=262.8424
     eq=2
   if comp=="Na2SO4":
     PM=142.04
-    eq=1
+    eq=2
   if comp=="Na2CO3":
     PM=105.9884
     eq=2
@@ -180,10 +180,10 @@ with tab3:
     eq=1
   if comp=="KMnO4":
     PM=158.034
-    eq=1
+    eq=5
   if comp=="HCOOH":
     PM=46.03
-    eq=3
+    eq=2
   if comp=="NH3":
     PM=17.031
     eq=2
@@ -198,16 +198,16 @@ with tab3:
     eq=1
   if comp=="LiOH":
     PM=23.95
-    eq=2
+    eq=1
   if comp=="Mg(OH)2":
     PM=39.997
     eq=2
   if comp=="C6H8O7":
     PM=192.124
-    eq=1
+    eq=8
   if comp=="C3H6O3":
     PM=128.1683
-    eq=3
+    eq=6
   if comp=="CH3COONa":
     PM=82.0343
     eq=1
@@ -240,7 +240,7 @@ with tab3:
     eq=1
   if c=="HCl":
     PM=36.4609
-    eq=3
+    eq=1
   if c=="CH3COOH":
     PM=60.0520
     eq=1
@@ -255,22 +255,22 @@ with tab3:
     eq=6
   if c=="LiCl":
     PM=42.3940
-    eq=3
+    eq=1
   if c=="Mg3(PO4)2":
     PM=262.8577
     eq=2
   if c=="Al(OH)3":
     PM=78.0036
-    eq=1
+    eq=3
   if c=="Ca(OH)3":
     PM=74.0927
-    eq=1
+    eq=3
   if c=="KCl":
     PM=74.5513
-    eq=6
+    eq=1
   if c=="KOH":
     PM=56.1056
-    eq=2
+    eq=1
   if c=="Mg3(PO4)2":
     PM=262.8424
     eq=2
@@ -285,10 +285,10 @@ with tab3:
     eq=1
   if c=="KMnO4":
     PM=158.034
-    eq=1
+    eq=5
   if c=="HCOOH":
     PM=46.03
-    eq=3
+    eq=2
   if c=="NH3":
     PM=17.031
     eq=2
@@ -300,19 +300,19 @@ with tab3:
     eq=2
   if c=="C2H2O4":
     PM=90.03
-    eq=1
+    eq=2
   if c=="LiOH":
     PM=23.95
-    eq=2
+    eq=1
   if c=="Mg(OH)2":
     PM=39.997
     eq=2
   if c=="C6H8O7":
     PM=192.124
-    eq=1
+    eq=8
   if c=="C3H6O3":
     PM=128.1683
-    eq=3
+    eq=6
   if c=="CH3COONa":
     PM=82.0343
     eq=1
