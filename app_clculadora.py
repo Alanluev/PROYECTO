@@ -146,7 +146,7 @@ with tab3:
     PM=63.0123
     eq=1
   if comp=="CaCl2":
-    PM=1002940
+    PM=110.9840
     eq=6
   if comp=="LiCl":
     PM=42.3940
