@@ -156,7 +156,7 @@ with tab3:
     eq=2
   if comp=="Al(OH)3":
     PM=78.0036
-    eq:1
+    eq=1
   if comp=="Ca(OH)3":
     PM=74.0927
     eq=1
